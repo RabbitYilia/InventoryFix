@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Net\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Net\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Administrator\Documents\Net\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Net\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Net\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\Administrator\Documents\Net\obj\Debug\Demo.exe
+C:\Users\Administrator\Documents\Net\obj\Debug\Demo.pdb
+C:\Users\Administrator\Documents\Demo.exe
+C:\Users\Administrator\Documents\Demo.pdb
